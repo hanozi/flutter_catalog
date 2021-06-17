@@ -17,8 +17,8 @@ class ItemWidget extends StatelessWidget {
         title: Text(item.name),
         subtitle: Text(item.desc),
         trailing: Text(
-          "\INR ${item.price.toString()}",
-          textScaleFactor: 1.5,
+          "\INR ${item.price.toStringAsFixed(3)}",
+          textScaleFactor: 1.1,
           style: TextStyle(color: Colors.purple, fontWeight: FontWeight.bold),
         ),
       ),

@@ -1,5 +1,5 @@
 class CatalogModel {
-  static final items = [
+  static List<Item> items = [
     Item(
         id: 123,
         name: "lorem",
@@ -26,4 +26,23 @@ class Item {
       required this.desc,
       required this.price,
       required this.color});
+
+  factory Item.fromMap(Map<String, dynamic> map) {
+    return Item(
+        id: map["id"],
+        name: map["name"],
+        image: map["image"],
+        desc: map["description"],
+        price: map["price"],
+        color: map["color"]);
+  }
+
+  toMap() => {
+        "id": id,
+        "name": name,
+        "description": desc,
+        "price": price,
+        "color": color,
+        "image": image,
+      };
 }

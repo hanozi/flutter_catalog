@@ -1,0 +1,126 @@
+{
+    "products" : [
+        [
+            {
+                "id": 1283,
+                "image": "https://amavi.ribox.me/image/cache/catalog/Caudalie/CDLX014-200x200.jpg",
+                "name": "Caudalie Beauty Elixir Set",
+                "description": "Beauty Elixir 100ml (Full\r\nSize)A multi-tasking mist that\r\nreveals an instant radiance boost for the..",
+                "price": 18.500,
+                "color": "#33505a"
+            },
+            {
+                "id": 1204,
+                "image": "https://amavi.ribox.me/image/cache/catalog/SwissLine/SWLX002-200x200.jpg",
+                "name": "Swissline Exfoliator &amp; Mask Offer Set 2",
+                "description": "Force Vitale Mild\r\nExfoliating Refiner 75mlThis invigorating\r\nexfoliating gel is formulated with gen..",
+                "price": 61.000,
+                "color": "#00ac51"
+            },
+            {
+                "id": 1422,
+                "image": "https://amavi.ribox.me/image/cache/catalog/Vichy/VCHX023AA-200x200.jpg",
+                "name": "Vichy Normaderm Phytosolution Set",
+                "description": "Normaderm\r\nPhytosolution Double-Correction Moisturizer 50mlA\r\ndouble-action, daily moisturizer for o..",
+                "price": 17.800,
+                "color": "#bada55"
+            },
+            {
+                "id": 863,
+                "image": "https://amavi.ribox.me/image/cache/catalog/NUXE/NUXX003B-200x200.jpg",
+                "name": "NUXE Nuxuriance Ultra Anti-Aging Set",
+                "description": "Replenishing Rich Cream 50mlThis global anti-aging replenishing rich cream with Saffron and\r\nBougain..",
+                "price": 28.000,
+                "color": "#e6e6fa"
+            },
+            {
+                "id": 900,
+                "image": "https://amavi.ribox.me/image/cache/catalog/Phyto/PHTX001-200x200.jpg",
+                "name": "Phyto Joba Moisturizing Hair Set",
+                "description": "Joba Moisturizing Care Gel\r\n150mlMoisturizing gel that\r\nrestores softness and shine to dry hair, wit..",
+                "price": 30.350,
+                "color": "#ffe4e1"
+            },
+            {
+                "id": 1436,
+                "image": "https://amavi.ribox.me/image/cache/catalog/Lierac/LRCX015-200x200.jpg",
+                "name": "Lierac Lift Integral Cream &amp; Serum Offer",
+                "description": "Lift\r\nIntegral Superactivated Serum 30mlLift-injection\r\neffect serum lifts facial contours, boots el..",
+                "price": 66.500,
+                "color": "#c6e2ff"
+            },
+            {
+                "id": 1389,
+                "image": "https://amavi.ribox.me/image/cache/catalog/Eucerin/EUCX008-200x200.jpg",
+                "name": "Eucerin Even Pigment Day &amp; Night Cream Set",
+                "description": "Even\r\nPigment Perfector Day Cream 50mlA\r\nday cream with sun protection SPF30 proven to reduce hyperp..",
+                "price": 44.000,
+                "color": "#00ced1"
+            },
+            {
+                "id": 1406,
+                "image": "https://amavi.ribox.me/image/cache/catalog/Caudalie/CDLX018-200x200.jpg",
+                "name": "Caudalie Premier Cru Anti-Aging Set",
+                "description": "Premier\r\nCru Eye Cream 15mlAn ultra-effective and luxurious eye cream that\r\ntackles all signs of agi..",
+                "price": 28.000,
+                "color": "#afeeee"
+            },
+            {
+                "id": 1203,
+                "image": "https://amavi.ribox.me/image/cache/catalog/SwissLine/SWLX001A-200x200.jpg",
+                "name": "Swissline Moisturizing Offer Set 1",
+                "description": "Force Vitale Gel Cream 50mlThis lightweight,\r\nfast-penetrating gel-cream hydrates the skin and promo..",
+                "price": 96.000,
+                "color": "#ffb6c1"
+            },
+            {
+                "id": 1083,
+                "image": "https://amavi.ribox.me/image/cache/catalog/ISIS/SISX001-200x200.jpg",
+                "name": "ISIS Pharma Neotone Radiance Fluid &amp; Serum Offer",
+                "description": "Neotone Radiance Fluid\r\nSPF50 30mlAn advanced formula to\r\nprevent and treat hyperpigmentation while ..",
+                "price": 32.500,
+                "color": "#b0e0e6"
+            },
+            {
+                "id": 866,
+                "image": "https://amavi.ribox.me/image/cache/catalog/NUXE/NUXX004AA-200x200.jpg",
+                "name": "NUXE Aquabella Oily &amp; Combination Skin Beauty Pouch",
+                "description": "Aquabella\r\nMoisturizing Emulsion 50ml:This\r\nmoisturizing emulsion, a melting skincare product with a..",
+                "price": 13.500,
+                "color": "#f7347a"
+            },
+            {
+                "id": 933,
+                "image": "https://amavi.ribox.me/image/cache/catalog/Phyto/PHTX005A-200x200.jpg",
+                "name": "Phyto Detox Hair Set",
+                "description": "Detox Rehab Spray 150mlDual anti-odor action: it\r\nneutralizes unpleasant odors (tobacco, pollution, ..",
+                "price": 23.500,
+                "color": "#ffc0cb"
+            },
+            {
+                "id": 1434,
+                "image": "https://amavi.ribox.me/image/cache/catalog/Lierac/LRCX013-200x200.jpg",
+                "name": "Lierac Supra Radiance Cream &amp; Serum Offer",
+                "description": "Supra\r\nRadiance Booster Detox Serum 30mlA\r\nserum that detoxifies the skin, brightens the complexion ..",
+                "price": 55.000,
+                "color": "#d8c8a9"
+            },
+            {
+                "id": 930,
+                "image": "https://amavi.ribox.me/image/cache/catalog/Vichy/VCHX020X-200x200.jpg",
+                "name": "Vichy Purifying Detox Hair Set",
+                "description": "Dercos Purifying Detox\r\nShampoo 250mlA detox shampoo to rebalance\r\nhair and scalp suffering from gre..",
+                "price": 20.000,
+                "color": "#ecd3cb"
+            },
+            {
+                "id": 1394,
+                "image": "https://amavi.ribox.me/image/cache/catalog/Caudalie/CDLX017-200x200.jpg",
+                "name": "Caudalie Vinoperfect Set II",
+                "description": "Vinoperfect Complexion Correcting Serum 30ml\r\n(Full Size)This powerful serum brightens and evens the..",
+                "price": 24.000,
+                "color": "#cdb79e"
+            }
+        ]
+    ]
+}
